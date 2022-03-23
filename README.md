@@ -7,6 +7,10 @@ Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022, Forthcoming). Nonline
 \
 \
 \
+_By using the contents on this Github repo and the published article, you agree to cite the above work._
+\
+\
+\
 __Contact Us:__
 - Email: [hcorreia@hsph.harvard.edu](mailto:hcorreia@hsph.harvard.edu)  
 - Email: [torkild.tveraa@nina.no](mailto:torkild.tveraa@nina.no)
