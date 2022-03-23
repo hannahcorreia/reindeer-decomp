@@ -1,5 +1,5 @@
 # Nonlinear spatial and temporal decomposition for climate change effects on sub-Arctic herbivore populations
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Study Status: published](https://img.shields.io/badge/Study%20Status-published-success)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Study Status: accepted](https://img.shields.io/badge/Study%20Status-accepted-yellowgreen)](https://doi.org/10.1007/s00442-022-05150-7)
 
 This is the data repository for public available code and data to reproduce analyses in
 
