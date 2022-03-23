@@ -3,11 +3,16 @@
 
 This is the data repository for public available code and data to reproduce analyses in
 Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022, Forthcoming). Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. https://doi.org/10.1007/s00442-022-05150-7
-\
-\
-\
-_By using the contents on this Github repo and the published article, you agree to cite the above work._
-\
+
+## Code
+Entire analysis is provided in [`reindeer_analyses.R`](reindeer_analyses.R)
+
+## Data
+Data used in the analyses and required for the R code are given in [`reindeerNOR_decomp.csv`](reindeerNOR_decomp.csv), which is also deposited at the Harvard Dataverse repository https://doi.org/10.7910/DVN/FTMDK6
+
+_By using the contents on this Github repo and the published article, you agree to cite:_
+Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022, Forthcoming). Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. https://doi.org/10.1007/s00442-022-05150-7  
+Correia, Hannah, 2022, "Replication Data for: Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations", https://doi.org/10.7910/DVN/FTMDK6, Harvard Dataverse, V1, UNF:6:wjxXeneEQJ6H94Hpb/CDvw== [fileUNF] 
 \
 \
 __Contact Us:__
