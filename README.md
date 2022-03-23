@@ -8,8 +8,10 @@ Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022, Forthcoming). Nonline
 Entire analysis is provided in [`reindeer_analyses.R`](reindeer_analyses.R)
 
 ## Data
-Data used in the analyses and required for the R code are given in [`reindeerNOR_decomp.csv`](reindeerNOR_decomp.csv), which is also deposited at the Harvard Dataverse repository https://doi.org/10.7910/DVN/FTMDK6
-
+Data used in the analyses and required for the R code are given in [`reindeerNOR_decomp.csv`](reindeerNOR_decomp.csv), which is also deposited at the Harvard Dataverse repository at https://doi.org/10.7910/DVN/FTMDK6
+\
+\
+\
 _By using the contents on this Github repo and the published article, you agree to cite:_  
 
 Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022, Forthcoming). Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. https://doi.org/10.1007/s00442-022-05150-7  
