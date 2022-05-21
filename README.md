@@ -16,7 +16,7 @@ _By using the contents on this Github repo and the published article, you agree 
 
 Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N. (2022). Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. 198:889–904. https://doi.org/10.1007/s00442-022-05150-7  
 
-Correia, Hannah, 2022, "Replication Data for: Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations", https://doi.org/10.7910/DVN/FTMDK6, Harvard Dataverse, V1, UNF:6:wjxXeneEQJ6H94Hpb/CDvw== [fileUNF] 
+Correia, Hannah, 2022, "Replication Data for: Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations", https://doi.org/10.7910/DVN/FTMDK6, Harvard Dataverse, V2, UNF:6:wjxXeneEQJ6H94Hpb/CDvw== [fileUNF] 
 \
 \
 \
